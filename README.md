@@ -24,5 +24,5 @@ This project is a Laravel-based web application that discovers educational YouTu
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/proganas/youtube-scrapper)
 cd youtube-scrapper
